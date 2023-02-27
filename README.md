@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+We’ll be building and shipping a full stack app which takes in prompts from user and generates art using stable diffusion and mint this generated art on the blockchain for free.
+
+We are going to use hugging face to use the stable diffusion model and generate the art via an api and mint this generated art on the blockchain using the NFTport api to mint the NFT gasless, i.e. for free.
+
 ## Available Scripts
 
 In the project directory, you can run:
